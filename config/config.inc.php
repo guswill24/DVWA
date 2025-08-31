@@ -1,4 +1,5 @@
 <?php
+die("CONFIG NUEVO CARGADO ✅");
 // Database configuration
 $_DVWA = array();
 $_DVWA['db_server']   = 'mysql.railway.internal';
