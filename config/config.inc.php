@@ -51,4 +51,4 @@ define('SQLITE', 'sqlite');
 #   If you do not understand what this means, do not change it.
 $_DVWA['SQLI_DB'] = getenv('SQLI_DB') ?: MYSQL;
 #$_DVWA['SQLI_DB'] = SQLITE;
-#$_DVWA['SQLITE_DB'] = 'sqli.db';
+#$_DVWA['SQLITE_DB'] = 'sqli.db'
