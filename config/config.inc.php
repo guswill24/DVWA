@@ -5,7 +5,7 @@ $_DVWA = array();
 $_DVWA['db_server']   = 'mysql.railway.internal';
 $_DVWA['db_database'] = 'railway';
 $_DVWA['db_user']     = 'root';
-$_DVWA['db_password'] = 'IPmChRugXxSaSzlqXqWUeFGwzIkCYrYU';
+$_DVWA['db_password'] = 'xtSocSbIZrOfUdjocjBodTirJUmqngOz';
 $_DVWA['db_port']     = '3306';
 
 // reCAPTCHA - opcional (puedes dejar vacío si no lo usas)
